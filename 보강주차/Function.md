@@ -114,3 +114,5 @@ print(b)#[2, 4, 6, 'AA']
 c=list(map(lambda x:2*x,a))
 print(c)#[2, 4, 6, 'AA']
 ```
+
+### 다양한 매개변수 및 인자의 형태
